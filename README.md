@@ -37,7 +37,7 @@ Deploy the Dockerhub images to the Kubernetes cluster
   ![auto-scale-desc](./screenshots/hpa.png)
 
 - API logs
-  ![login-user-logs](./screenshots/api-logs.png)
+  ![login-user-logs](./screenshots/api-logs2.png)
 
 - Reverseproxy Logs
   ![reverseproxy-desc](./screenshots/reverseproxy-logs.png)
