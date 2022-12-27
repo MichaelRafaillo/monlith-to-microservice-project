@@ -34,7 +34,7 @@ Deploy the Dockerhub images to the Kubernetes cluster
   ![services-des5](./screenshots/describe-services-5.png)
 
 - horizontal scaling
-  ![auto-scale-desc](./screenshots/hpa.png)
+  ![auto-scale-desc](./screenshots/hpa2.png)
 
 - API logs
   ![login-user-logs](./screenshots/api-logs2.png)
